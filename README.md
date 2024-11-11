@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ryudswift
-- 👀 I’m interested in coding and web apps, im a complete noob.
+- 👀 I’m interested in coding and learning the hard way, by doing.
+- not sure how to use github fully yet - will be updating this soon
 - 🌱 I’m currently learning python, just started.   
 
 <!---
