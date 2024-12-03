@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![ryudswift's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudswift&hide=contribs,prs)
 
 - 👋 Hi, I’m @ryudswift
 - 👀 I’m interested in coding and learning the hard way, by doing.
