@@ -2,7 +2,7 @@
 
 ## Hey I'm RyudSwift 👋
 
-### ♠️[Profile](https://ryudswift.github.io/Profile/) 🉐[ LIVE - REVIEW](https://ryudswift.github.io/Profile-Review/)
+### ♠️[Profile](https://ryudswift.github.io/Profile/)  | 🉐[ LIVE - REVIEW](https://ryudswift.github.io/Profile-Review/)
 
 ### About Me:
 I'm an automation specialist and business strategist passionate about bridging the gap between technology and real-world outcomes. My focus is on building efficient systems and workflows that solve actual problems, not just for the sake of automation itself.
