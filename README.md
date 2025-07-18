@@ -17,8 +17,20 @@ I'm an automation specialist and business strategist passionate about bridging t
 
 ## 🌱 I'm Currently Learning
 
-I'm always expanding my toolkit. Right now, my main focus is diving deeper into Python to build more robust and scalable automation engines.
-💡 My Philosophy
+~~I'm always expanding my toolkit. Right now, my main focus is diving deeper into Python to build more robust and scalable automation engines.
+💡 My Philosophy~~
+
+
+💡 **My Real Philosophy**
+
+Honestly, I'm too impatient to formally "learn" a language from a book. My real passion is hands-on development and systems work. You'll usually find me:
+
+* **Working on a server,** learning development environments and how to set up secure systems. (Though let's be real, vulnerabilities always exist—the goal is to stay vigilant and updated).
+* **Building my own projects** or adding features to my personal learning kit just for the fun of it. This might be anything from auto-generating websites to building a proper lead-gen setup that I never fully use because I enjoy the project work more than the marketing.
+* **Focusing on security and efficiency.** I've been building custom frontends for my own backends, and I'm loving the challenge of speeding things up by truly *understanding* the frameworks, not just "vibe coding" my way through.
+
+Who knows, maybe the next update to this page will be handled by my AI agents.
+
 
 I approach problems with a mindset-first perspective. It's not just about the code; it's about asking the right questions.
 
