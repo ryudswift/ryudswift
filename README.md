@@ -1,6 +1,6 @@
 # Hey, I'm RyudSwift 👋
 
-###  [Profile](https://ryudswift.github.io/ryudswift) |  [Profile-Review](https://ryudswift.github.io/Profile-Review)
+###  [Come and See](https://ryudswift.github.io/ryudswift) |  [Profile-Review](https://ryudswift.github.io/Profile-Review)
 
 ---
 
