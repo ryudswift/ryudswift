@@ -1,52 +1,88 @@
+# Hey, I'm RyudSwift 👋
 
+###  [Profile](https://ryudswift.github.io/ryudswift) |  [Live Review](https://ryudswift.github.i/)
 
-## Hey I'm RyudSwift 👋
+---
 
-### ♠️[Profile](https://ryudswift.github.io/Profile/)  | 🉐[ LIVE - REVIEW](https://ryudswift.github.io/Profile-Review/)
+## About
 
-### About Me:
-I'm an automation specialist and business strategist passionate about bridging the gap between technology and real-world outcomes. My focus is on building efficient systems and workflows that solve actual problems, not just for the sake of automation itself.
+I help founders, operators, and independent builders make better technology decisions.
 
-## 🎯 What I'm Focused On
+My background spans systems administration, DevOps, automation, AI workflows, business strategy, marketing, and product development. Over the years I've learned that most problems aren't solved by adding more tools.
 
-    🤖 Workflow Automation & Orchestration: Deep expertise in designing and implementing automation solutions, especially with tools like n8n.
+They're solved by understanding the problem clearly enough to build the right system around it.
 
-    📈 SaaS Development & Business Strategy: Advising on lean GTM approaches and helping businesses identify and solve real customer challenges.
+Today my work focuses on consulting, research, and practical implementation guidance. Whether it's AI adoption, infrastructure planning, workflow design, business processes, or technical strategy, my goal is always the same:
 
-    🤝 Community & Education: I believe in learning in public and sharing knowledge. I'm currently building resources to help others get started in automation.
+**Reduce complexity. Increase clarity. Create leverage.**
 
-## 🌱 I'm Currently Learning
+---
 
-~~I'm always expanding my toolkit. Right now, my main focus is diving deeper into Python to build more robust and scalable automation engines.
-💡 My Philosophy~~
+## What I'm Working On
 
+### 🧠 AI & Emerging Technology
 
-💡 **My Real Philosophy**
+Exploring practical applications of AI for businesses and individuals while cutting through the hype to focus on real-world outcomes.
 
-Honestly, I'm too impatient to formally "learn" a language from a book. My real passion is hands-on development and systems work. You'll usually find me:
+### ⚙️ Systems & Infrastructure
 
-* **Working on a server,** learning development environments and how to set up secure systems. (Though let's be real, vulnerabilities always exist—the goal is to stay vigilant and updated).
-* **Building on my own projects** or adding features to my personal learning kits just for the fun of it. This might be anything from auto-generating websites to building a proper lead-gen setup to ebook generation to automatic email follow up's or even a newsletter system.
-* **Focusing on security and efficiency.** I've been building custom frontends for my own backends, and I'm loving the challenge of speeding things up by truly *understanding* the frameworks, not just "vibe coding" my way through.
+Building and refining secure, reliable environments for experimentation, learning, and long-term projects.
 
-Who knows, maybe the next update to this page will be handled by my AI agents. (Not yet, I still love writing, call it the Copywriter in me)
+### 📊 Business & Strategy
 
+Helping people identify bottlenecks, opportunities, and next steps before they invest time and money in the wrong solutions.
 
-I approach problems with a mindset-first perspective. It's not just about the code; it's about asking the right questions.
+### 📚 Learning in Public
 
-    "Automation isn’t just about workflows, it’s about solving real problems."
+Sharing experiments, lessons learned, frameworks, and observations from the intersection of technology, business, and systems thinking.
 
-    "Start with the challenge/outcome… learning to share who you are as well and not be another bot in the industry of… 'Life.'"
+---
 
-## 📫 Let's Connect
+## My Approach
 
-I'm always open to discussing new ideas, projects, or just chatting about the future of automation and SaaS.
+I don't believe every problem needs automation.
 
-    Reddit: u/RyudSwift - Join the conversation in communities like r/n8n and r/automation.
+I don't believe every business needs AI.
 
-    GitHub: You're already here! Feel free to explore my repositories.
+I don't believe every challenge needs another SaaS subscription.
 
-![ryudswift's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudswift&hide=contribs,prs)
-<!---
-ryudswift/ryudswift is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
---->
+Most of the time the best solution comes from asking better questions.
+
+Technology should support outcomes, not become the outcome itself.
+
+---
+
+## Current Interests
+
+* AI Systems & Agents
+* DevOps & Self-Hosted Infrastructure
+* Business Process Design
+* Knowledge Management
+* Automation for Personal Leverage
+* Digital Products
+* Open Source Technology
+* Decision Frameworks
+
+---
+
+## Philosophy
+
+> "The tool is rarely the bottleneck. The thinking usually is."
+
+> "Technology creates leverage. Clarity determines where to apply it."
+
+> "Start with the outcome, then build the system."
+
+---
+
+## Connect
+
+💬 Reddit: u/RyudSwift
+
+💻 GitHub: Explore the repositories and experiments
+
+🌐 Projects, notes, and resources available through the links above
+
+---
+
+![ryudswift's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryudswift\&hide=contribs,prs)
